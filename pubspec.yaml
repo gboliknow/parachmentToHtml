@@ -1,5 +1,7 @@
 name: parchment_to_html
-description: "Convert the Parchment document format to an HTML representation."
+description: A Dart package for converting between Parchment and HTML formats.
+
+homepage: https://github.com/gboliknow/parachmentToHtml
 
 version: 1.0.0+1
 
